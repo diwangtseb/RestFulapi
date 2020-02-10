@@ -1,6 +1,0 @@
-E:\公司\demo1\RestFulApi\Service\Service\bin\Debug\Service.exe.config
-E:\公司\demo1\RestFulApi\Service\Service\bin\Debug\Service.exe
-E:\公司\demo1\RestFulApi\Service\Service\bin\Debug\Service.pdb
-E:\公司\demo1\RestFulApi\Service\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
-E:\公司\demo1\RestFulApi\Service\Service\obj\Debug\Service.exe
-E:\公司\demo1\RestFulApi\Service\Service\obj\Debug\Service.pdb
